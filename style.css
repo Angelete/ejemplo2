@@ -12,3 +12,6 @@ span.no{
     color: blue;
     font-weight: bold;
 }
+span.canis{
+    font-style: italic;
+}
